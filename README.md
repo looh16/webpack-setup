@@ -1,56 +1,37 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Set up project with webpack
 
-> Description the project.
+> build a simple but powerful webpack boilerplate that can later be used as a starting point for future projects.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+- HTML
+- CSS
+- WEBPACK
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
+# Getting Started
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites: 
+Any kind of browser. 
 
-### Setup
+### Setup:
+    1. Clone the repository (git clone https://github.com/Ney2/AwesomeBook.git)
+    2. Then open the folder in your local environment 
+    3. In terminal console and run:
+       - npm install
+       - npm run dev
+       - npm start
 
-### Install
+👤 **Author**
 
-### Usage
+  - GitHub: [@looh16](https://github.com/looh16/Hello-Microverse)
+  - Twitter: [@looh16](https://twitter.com/custodiolanga1)
+  - LinkedIn: [@looh16](https://www.linkedin.com/in/custodio-serafim-2a318a23a) 
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
